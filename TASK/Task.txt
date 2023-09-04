@@ -1,0 +1,5 @@
+//Реализоавть функцию которая вернет сумму элементов массива любого уровня вложенности
+var getSummElementsOfArray = function (arr) {
+
+}
+console.log(getSummElementsOfArray(["ВАся", 45, null, -658, [NaN, "sdfsdf", 456], ['fd', [124, 658, null, 466]]]));
